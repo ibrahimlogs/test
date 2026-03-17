@@ -1,0 +1,4 @@
+storePassword=nitto_seiko#jp_25
+keyPassword=nitto_seiko#jp_25
+keyAlias=upload
+storeFile=/Users/ayanali/Downloads/nittoseiko_health_care-Final/android/app/upload-keystore.jks
